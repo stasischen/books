@@ -10,7 +10,9 @@ FB粉絲團：[投資、詐騙、政治是討論三本柱](https://www.facebook.
 
 Blogger：[近年比較少更新，之後打算多放一些書評](https://stasistw.blogspot.com/)
 
-PTT：[Stock版精華區](https://www.ptt.cc/man/Stock/D2A8/D23/index.html) / [Stock](https://www.ptt.cc/bbs/Stock/search?q=author%3Astasis) / [Option](https://www.ptt.cc/bbs/Option/search?q=author%3Astasis) / [Trading](https://www.ptt.cc/bbs/Trading/search?q=author%3Astasis)
+PTT：[Stock版精華區](https://www.ptt.cc/man/Stock/D2A8/D23/index.html) / [Stock](https://www.ptt.cc/bbs/Stock/search?q=author%3Astasis) / [Option](https://www.ptt.cc/bbs/Option/search?q=author%3Astasis) / [Trading](https://www.ptt.cc/bbs/Trading/search?q=author%3Astasis)  
+  
+Youtube：[JG訪談、財經節目來賓等](https://www.youtube.com/results?search_query=%E9%BA%A5%E5%85%8B%E9%A2%A8+%E9%99%B3%E5%BD%A5%E6%96%87)
 
 演講Powerpoint：[這份是底稿，會依照主題微調](https://drive.google.com/file/d/1vHzdyiclJ1MPPn1RUZivPKWWBmKELPwg/view)
 
