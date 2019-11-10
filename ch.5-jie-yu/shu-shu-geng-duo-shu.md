@@ -25,11 +25,10 @@
 [非常潛力股](https://idragon.info/2bKpu)  
 [買股致富](https://wonderfulapple.net/2bKq7)  
   
-[失敗學](https://www1.oeya.com.tw/2bKqV)  
+非常潛力股比較有名，但我個人反倒偏好買股致富，書中  
   
-大利從小  
-\*約翰聶夫談投資  
-\*財務報表分析
+[失敗學](https://www1.oeya.com.tw/2bKqV)  
+[大利從小](https://buyforfun.biz/2bKrX)
 
 ### 量化價值
 
