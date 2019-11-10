@@ -43,4 +43,5 @@
 
 * [投資致富之道](ch.5-jie-yu/tou-zi-zhi-fu-zhi-dao.md)
 * [書、書、更多書](ch.5-jie-yu/shu-shu-geng-duo-shu.md)
+* [致謝](ch.5-jie-yu/zhi-xie.md)
 
