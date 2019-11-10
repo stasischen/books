@@ -8,13 +8,16 @@
 ****[**彼得林區 選股戰略**](https://adcenter.conn.tw/2bKfA)  
 ****[**彼得林區 征服股海**](https://greenmall.info/2bKfV)
 
-又會投資講話又超好笑的人不多，彼得林區是其中的佼佼者，一套三本由淺入深，股票六大分類極實用。  
+經典不用多介紹，又會投資，講話又超好笑的人不多，彼得林區是其中的佼佼者，一套三本由淺入深，股票六大分類極實用。  
   
 [**21世紀價值投資**](https://product.mchannles.com/2ZzG9)  
   
 這本書的前半段，主要介紹價值投資者衡量企業的三種主要方式：資產、盈餘、成長，後半段則介紹了8位價值投資人，每個人都有獨特的投資風格。  
   
-\*你也可以成為股市天才  
+[**你也可以成為股市天才**](https://www1.gamepark.com.tw/2bKkO)  
+  
+這本書特別之處在於講述的不是基本投資概念，而是用各種實際案例來說明分拆、合併、重整、套利等，只有少數投資人願意花時間研究的特殊事件，並從中尋找獲利機會。  
+  
 \*智慧型股票投資人  
 \*非常潛力股  
 \*買股致富  
@@ -29,7 +32,8 @@
 \*超值投資  
 \*計量價值的勝率  
   
-- [WHAT HAS WORKED IN INVESTING](https://www.tweedy.com/resources/library_docs/papers/WhatHasWorkedFundOct14Web.pdf)  
+[WHAT HAS WORKED IN INVESTING](https://www.tweedy.com/resources/library_docs/papers/WhatHasWorkedFundOct14Web.pdf)  
+  
 免費的英文書，用數據告訴你哪些方法在投資領域有用。
 
 ### 被動投資
