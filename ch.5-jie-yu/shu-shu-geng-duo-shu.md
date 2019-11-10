@@ -51,6 +51,16 @@
 
 ### 傳記與箴言： 
 
+\*雪球  
+\*永恆的價值  
+\*巴菲特：從無名小子到美國大資本家之路  
+  
+\*[華爾街刺蝟投資客](https://search.books.com.tw/redirect/move/key/Barton+Biggs/area/mid/item/0010837210/page/1/idx/2/cat/001/pdf/1)  
+\*[華爾街刺蝟投資客之投資啟示錄](https://search.books.com.tw/redirect/move/key/Barton+Biggs/area/mid/item/0010805713/page/1/idx/5/cat/001/pdf/1)  
+[\*對沖基金風雲錄3 王者私語](https://search.books.com.tw/redirect/move/key/Barton+Biggs+%E7%8E%8B%E8%80%85%E7%A7%81%E8%AA%9E/area/mid/item/CN11049741/page/1/idx/7/cat/CN1/pdf/0/fm/1/stem/2)  
+  
+\*  
+\*  
 \*
 
 \*投機客養成教育上  
@@ -64,15 +74,11 @@
 最簡單的成功方法就是模仿成功者的心態與思維，類似的書其實很多，請自己找。  
   
 \*股票作手回憶錄  
-Livermore的另一巨作，自傳中充滿了投機的經驗與智慧  
-  
-\*雪球  
-\*永恆的價值  
-\*巴菲特：從無名小子到美國大資本家之路
+Livermore的另一巨作，自傳中充滿了投機的經驗與智慧
 
 ### 延伸閱讀： 
 
-\*隨機的致富陷阱  
+\*[隨機騙局：潛藏在生活與市場中的機率陷阱](https://search.books.com.tw/redirect/move/key/Barton+Biggs/area/mid/item/0010636642/page/1/idx/6/cat/001/pdf/1)  
 許多隨機的現象會以非隨機的面貌出現，也一再愚弄了大眾。  
   
 \*牛頓、達爾文與投資股票  
