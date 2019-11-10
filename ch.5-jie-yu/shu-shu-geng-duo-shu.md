@@ -25,10 +25,15 @@
 [非常潛力股](https://idragon.info/2bKpu)  
 [買股致富](https://wonderfulapple.net/2bKq7)  
   
-非常潛力股比較有名，但我個人反倒偏好買股致富，書中  
+非常潛力股比較有名，但我個人反倒偏好買股致富，裡面關於法人股與企業併購的觀點，到現在還是頗貼切。  
   
 [失敗學](https://www1.oeya.com.tw/2bKqV)  
-[大利從小](https://buyforfun.biz/2bKrX)
+  
+主題非常特別，用大量的實際案例告訴你：企業是怎麼掛掉的。我喜歡作者觀察經營階層的方式。  
+  
+[大利從小](https://buyforfun.biz/2bKrX)  
+  
+最大的缺點是翻譯我不喜歡，但內容扎實。
 
 ### 量化價值
 
