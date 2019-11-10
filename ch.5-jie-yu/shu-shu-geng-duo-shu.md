@@ -54,18 +54,20 @@
 \*雪球  
 \*永恆的價值  
 \*巴菲特：從無名小子到美國大資本家之路  
+巴菲特傳記系列，我個人最喜歡第三本的敘事方式；第二本是大家比較常推的經典，也比較有股票書的感覺；第一本最像傳記，對巴菲特的紀錄也最完整。  
   
 \*[華爾街刺蝟投資客](https://search.books.com.tw/redirect/move/key/Barton+Biggs/area/mid/item/0010837210/page/1/idx/2/cat/001/pdf/1)  
 \*[華爾街刺蝟投資客之投資啟示錄](https://search.books.com.tw/redirect/move/key/Barton+Biggs/area/mid/item/0010805713/page/1/idx/5/cat/001/pdf/1)  
 [\*對沖基金風雲錄3 王者私語](https://search.books.com.tw/redirect/move/key/Barton+Biggs+%E7%8E%8B%E8%80%85%E7%A7%81%E8%AA%9E/area/mid/item/CN11049741/page/1/idx/7/cat/CN1/pdf/0/fm/1/stem/2)  
   
-\*  
-\*  
-\*
+\*[_一個投機者的告白_](https://search.books.com.tw/redirect/move/key/%E4%B8%80%E5%80%8B%E6%8A%95%E6%A9%9F%E8%80%85%E7%9A%84%E5%91%8A%E7%99%BD/area/mid/item/0010777884/page/1/idx/1/cat/001/pdf/1)  
+\*[_一個投機者的告白_之金錢遊戲](https://search.books.com.tw/redirect/move/key/%E4%B8%80%E5%80%8B%E6%8A%95%E6%A9%9F%E8%80%85%E7%9A%84%E5%91%8A%E7%99%BD/area/mid/item/0010777864/page/1/idx/4/cat/001/pdf/1)  
+\*[_一個投機者的告白_之證券心理學](https://search.books.com.tw/redirect/move/key/%E4%B8%80%E5%80%8B%E6%8A%95%E6%A9%9F%E8%80%85%E7%9A%84%E5%91%8A%E7%99%BD/area/mid/item/0010777871/page/1/idx/5/cat/001/pdf/1)  
+科斯托蘭尼的投機經典，
 
 \*投機客養成教育上  
 \*投機客養成教育下  
-這兩本和專業投機原理同是經典之作，雖然原作在亞洲金融風暴時crash了，但不減此書的可讀性，而且在市場待得越久，讀起來越有味道 熱愛拜神者請看第三章，喜歡從眾者則該看看第九章  
+這兩本和專業投機原理同是經典之作，雖然原作在亞洲金融風暴時crash了，但不減此書的可讀性，而且在市場待得越久，讀起來越有味道 熱愛拜神者請看第三章，喜歡從眾者則該看看第九章。  
   
 \*金融怪傑上  
 \*金融怪傑下  
@@ -74,7 +76,7 @@
 最簡單的成功方法就是模仿成功者的心態與思維，類似的書其實很多，請自己找。  
   
 \*股票作手回憶錄  
-Livermore的另一巨作，自傳中充滿了投機的經驗與智慧
+Livermore的另一巨作，自傳中充滿了投機的經驗與智慧。老火雞的故事必讀，身為趨勢操作者，我自己沒事就會重看那段。
 
 ### 延伸閱讀： 
 
