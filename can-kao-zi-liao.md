@@ -18,3 +18,5 @@ Youtube：[JG訪談、財經節目來賓等](https://www.youtube.com/results?sea
 
 麥克風的股市求生手冊：[我的書，連結是綠角的書評](http://greenhornfinancefootnote.blogspot.com/2016/03/blog-post.html)
 
+![](.gitbook/assets/book.png)
+
