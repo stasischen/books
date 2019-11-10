@@ -23,12 +23,16 @@
 
 \*[打敗法人的價值投資法](https://www.books.com.tw/products/0010824984)  
 \*超值投資  
-\*計量價值的勝率
+\*計量價值的勝率  
+  
+\*[WHAT HAS WORKED IN INVESTING](https://www.tweedy.com/resources/library_docs/papers/WhatHasWorkedFundOct14Web.pdf)  
+免費的英文書，用數據告訴你哪些方法在投資領域有用。
 
 ### 被動投資：
 
 \*漫步華爾街  
 以大量的統計數據駁斥許多常見謬誤，也提供了相當實用的投資和資產管理建議  
+  
 \*散戶投資正典  
 \*綠角的基金8堂課  
 \*指數革命
