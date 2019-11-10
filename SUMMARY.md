@@ -38,7 +38,7 @@
 * [入門：白痴基本面選股法](ch.4-liang-hua-jia-zhi/bai-chi-ji-ben-mian-xuan-gu-fa.md)
 * [進階：麥克風選股法](ch.4-liang-hua-jia-zhi/jin-jie-mai-ke-feng-xuan-gu-fa.md)
 
-## CH.5 結語
+## CH.5 最後一步 <a id="ch.5-jie-yu"></a>
 
 * [投資致富之道](ch.5-jie-yu/tou-zi-zhi-fu-zhi-dao.md)
 * [做功課的方法](ch.5-jie-yu/zuo-gong-ke-de-fang-fa.md)
