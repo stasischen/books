@@ -8,7 +8,7 @@
 
 ### **股票獲利的剖析**
 
-Eugene Fama and Kenneth French在2007年提出的「[The Anatomy of Value and Growth Stock Returns](http://www.cfapubs.org/doi/pdf/10.2469/faj.v63.n6.4926)」這篇論文中，分析了價值\(低P/B\)與成長股\(高P/B\)報酬的來源，他們將1927-2006所有美國股票依\*規模和P/B，分為大型價值\(BV\)/大型中立\(BN\)/大型成長\(BG\)/小型價值\(SV\)/小型中立\(SN\)/小型成長\(SG\)，共六組；再把1926-2006年間價值股和成長股的平均回報，拆解成股息\(Dividend\)和資本利得\(Capital gain\)兩部分：  
+Eugene Fama and Kenneth French在2007年提出的「[The Anatomy of Value and Growth Stock Returns](http://www.cfapubs.org/doi/pdf/10.2469/faj.v63.n6.4926)」這篇論文中，分析了價值\(低P/B\)與成長股\(高P/B\)報酬的來源，他們將1927-2006所有美國股票依\*規模和P/B，分為大型價值\(BV\)/大型中立\(BN\)/大型成長\(BG\)/小型價值\(SV\)/小型中立\(SN\)/小型成長\(SG\)，共六組；再把1927-2006年間價值股和成長股的平均回報，拆解成股息\(Dividend\)和資本利得\(Capital gain\)兩部分：  
   
 \*占總組合比例：大型50% / 小型50%。價值30% / 中立40% / 成長30%。  
   
