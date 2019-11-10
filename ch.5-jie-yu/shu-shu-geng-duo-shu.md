@@ -18,32 +18,32 @@
   
 這本書特別之處在於講述的不是基本投資概念，而是用各種實際案例來說明分拆、合併、重整、套利等，只有少數投資人願意花時間研究的特殊事件，並從中尋找獲利機會。  
   
-[智慧型股票投資人](https://wonderfulapple.net/2bKmo)  
+[**智慧型股票投資人**](https://wonderfulapple.net/2bKmo)  
   
 葛拉漢的傳世經典，把股票市場當作投票機與體重機的比喻，至今為人津津樂道，這本書可以協助你建構一套以價值為基礎的投資策略。至於[證券分析](https://www1.gamepark.com.tw/2bKoN)上下集個人覺得偏硬，沒有會計跟投資學基礎大概會覺得是天書，自覺是老手的再考慮挑戰。  
   
-[非常潛力股](https://idragon.info/2bKpu)  
-[買股致富](https://wonderfulapple.net/2bKq7)  
+[**非常潛力股**](https://idragon.info/2bKpu)  
+****[**買股致富**](https://wonderfulapple.net/2bKq7)  
   
 非常潛力股比較有名，但我個人反倒偏好買股致富，裡面關於法人股與企業併購的觀點，到現在還是頗貼切。  
   
-[失敗學](https://www1.oeya.com.tw/2bKqV)  
+[**失敗學**](https://www1.oeya.com.tw/2bKqV)  
   
 主題非常特別，用大量的實際案例告訴你：企業是怎麼掛掉的。我喜歡作者觀察經營階層的方式。  
   
-[大利從小](https://buyforfun.biz/2bKrX)  
+[**大利從小**](https://buyforfun.biz/2bKrX)  
   
 最大的缺點是翻譯我不喜歡，但內容扎實。
 
 ### 量化價值
 
-\*打敗法人的價值投資法  
-\*超值投資  
-\*計量價值的勝率  
+打敗法人的價值投資法  
+超值投資  
+計量價值的勝率  
   
 [WHAT HAS WORKED IN INVESTING](https://www.tweedy.com/resources/library_docs/papers/WhatHasWorkedFundOct14Web.pdf)  
   
-免費的英文書，用數據告訴你哪些方法在投資領域有用。
+可以當作上面那本「打敗法人的價值投資法」的免費英文版，用數據告訴你哪些方法在投資領域有用。
 
 ### 被動投資
 
