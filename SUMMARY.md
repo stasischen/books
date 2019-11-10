@@ -1,7 +1,6 @@
 # Table of contents
 
 * [前言](README.md)
-* [關於我](can-kao-zi-liao.md)
 
 ## CH.1 市場陷阱
 
@@ -43,5 +42,6 @@
 
 * [投資致富之道](ch.5-jie-yu/tou-zi-zhi-fu-zhi-dao.md)
 * [書、書、更多書](ch.5-jie-yu/shu-shu-geng-duo-shu.md)
+* [關於我](ch.5-jie-yu/can-kao-zi-liao.md)
 * [致謝](ch.5-jie-yu/zhi-xie.md)
 
