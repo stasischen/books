@@ -4,9 +4,9 @@
 
 ### 價值投資
 
-\*[彼得林區 學以致富](https://adcenter.conn.tw/2bKfc)  
-\*[彼得林區 選股戰略](https://adcenter.conn.tw/2bKfA)  
-\*[彼得林區 征服股海](https://greenmall.info/2bKfV)  
+**\***[**彼得林區 學以致富**](https://adcenter.conn.tw/2bKfc)  
+**\***[**彼得林區 選股戰略**](https://adcenter.conn.tw/2bKfA)  
+**\***[**彼得林區 征服股海**](https://greenmall.info/2bKfV)  
 又會投資講話又超好笑的人不多，彼得林區是其中的佼佼者，一套三本由淺入深，股票六大分類極實用。  
   
 \*21世紀價值投資  
