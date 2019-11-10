@@ -117,8 +117,8 @@ Howard Marks BJ4. 我比較喜歡投資最重要的事。
   
 [**華爾街刺蝟投資客**](https://www1.oeya.com.tw/2bLGC)  
 ****[**華爾街刺蝟投資客之投資啟示錄**](https://pinkrose.info/2bLGG)  
-**對沖基金風雲錄3 王者私語**  
-  
+****[**對沖基金風雲錄3 王者私語**](https://joymall.co/2bLGK)  
+****  
 Barton Biggs是我最愛的投資作家之一，華爾街教父級人物，也是個成功的避險基金經理人。當初讀第一本驚艷到特別上Amazon從美國郵寄了原文版來收藏，台灣到目前還沒出第三本，只有簡中版。「[財富、戰爭與智慧：二戰啟示錄](https://search.books.com.tw/redirect/move/key/Barton+Biggs/area/mid/item/0010783377/page/1/idx/3/cat/001/pdf/1)」雖然內容跟股市相關性較低，但我也很愛。  
   
 \*[_一個投機者的告白_](https://search.books.com.tw/redirect/move/key/%E4%B8%80%E5%80%8B%E6%8A%95%E6%A9%9F%E8%80%85%E7%9A%84%E5%91%8A%E7%99%BD/area/mid/item/0010777884/page/1/idx/1/cat/001/pdf/1)  
