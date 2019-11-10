@@ -37,13 +37,19 @@
 
 ### 量化價值
 
-打敗法人的價值投資法  
-超值投資  
-計量價值的勝率  
+[**打敗法人的價值投資法**](https://dreamstore.info/2bKzX)  
+****[**WHAT HAS WORKED IN INVESTING**](https://www.tweedy.com/resources/library_docs/papers/WhatHasWorkedFundOct14Web.pdf)  
   
-[WHAT HAS WORKED IN INVESTING](https://www.tweedy.com/resources/library_docs/papers/WhatHasWorkedFundOct14Web.pdf)  
+這本書的內容雖然比不上「智慧型股票投資人」專業，卻簡潔扼要的抓住了價值型投資的精髓之處，書中說明要避開具有哪些特質的公司那段，看了令人會心一笑。What has worked in investing則可以當作「打敗法人的價值投資法」的免費英文版，用數據告訴你哪些方法在投資領域有用。  
   
-可以當作上面那本「打敗法人的價值投資法」的免費英文版，用數據告訴你哪些方法在投資領域有用。
+[**超值投資**](https://buyforfun.biz/2QKcy)  
+  
+本書最有趣的地方是，書中詳述了Icahn、Graham、Buffett、Greenblatt等人的投資觀點，不時比較這些名家觀點與做法中的異同，如何在量化與質化、煙屁股與優質公司做取捨；面對顢頇的公司經營階層，又如何藉『股東行動主義』來加速釋放公司價值。  
+  
+[計量價值的勝率](https://igrape.net/2bB6x)  
+  
+跟其他偏內容偏量化的價值投資書籍一樣，這本書提出了相當多的回測數據來說明採取價值投資方法的歷史績效。  
+
 
 ### 被動投資
 
