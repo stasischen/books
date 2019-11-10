@@ -4,12 +4,16 @@
 
 ### 價值投資
 
-**\***[**彼得林區 學以致富**](https://adcenter.conn.tw/2bKfc)  
-**\***[**彼得林區 選股戰略**](https://adcenter.conn.tw/2bKfA)  
-**\***[**彼得林區 征服股海**](https://greenmall.info/2bKfV)  
+[**彼得林區 學以致富**](https://adcenter.conn.tw/2bKfc)  
+****[**彼得林區 選股戰略**](https://adcenter.conn.tw/2bKfA)  
+****[**彼得林區 征服股海**](https://greenmall.info/2bKfV)
+
 又會投資講話又超好笑的人不多，彼得林區是其中的佼佼者，一套三本由淺入深，股票六大分類極實用。  
   
-\*21世紀價值投資  
+[**21世紀價值投資**](https://product.mchannles.com/2ZzG9)  
+  
+這本書的前半段，主要介紹價值投資者衡量企業的三種主要方式：資產、盈餘、成長，後半段則介紹了8位價值投資人，每個人都有獨特的投資風格。  
+  
 \*你也可以成為股市天才  
 \*智慧型股票投資人  
 \*非常潛力股  
@@ -21,11 +25,11 @@
 
 ### 量化價值
 
-\*[打敗法人的價值投資法](https://www.books.com.tw/products/0010824984)  
+\*打敗法人的價值投資法  
 \*超值投資  
 \*計量價值的勝率  
   
-\*[WHAT HAS WORKED IN INVESTING](https://www.tweedy.com/resources/library_docs/papers/WhatHasWorkedFundOct14Web.pdf)  
+- [WHAT HAS WORKED IN INVESTING](https://www.tweedy.com/resources/library_docs/papers/WhatHasWorkedFundOct14Web.pdf)  
 免費的英文書，用數據告訴你哪些方法在投資領域有用。
 
 ### 被動投資
