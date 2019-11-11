@@ -40,8 +40,8 @@
 
 ## CH.5 最後一步 <a id="ch.5-last-step"></a>
 
-* [投資致富之道](ch.5-last-step/tou-zi-zhi-fu-zhi-dao.md)
 * [做功課的方法](ch.5-last-step/zuo-gong-ke-de-fang-fa.md)
+* [投資致富之道](ch.5-last-step/tou-zi-zhi-fu-zhi-dao.md)
 * [書、書、更多書](ch.5-last-step/shu-shu-geng-duo-shu.md)
 * [關於我](ch.5-last-step/can-kao-zi-liao.md)
 * [致謝](ch.5-last-step/zhi-xie.md)
