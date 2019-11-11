@@ -46,7 +46,9 @@ description: (待補，整理ptt相關文章)
 
 說到半導體設備廠，直覺會想到AMAT跟ASML這兩家，前者是全球最大，後者是擁有最先進製程EUV，還讓intel三星GG共同投資加速製程開發。google你會找到[這篇](https://zhuanlan.zhihu.com/p/21632080)還有[這篇](https://www.zhihu.com/question/42963443)，讀完可以對產業多些基礎認知，也會知道EUV中國目前還沒法進口，所以上面的中國2025題材，ASML恐怕受惠的程度較小。那就來看看AMAT吧，AMAT是美國上市公司，直接從官網就可以[下載財報](http://www.appliedmaterials.com/company/investor-relations/financials)：
 
-從財報就可以找到營收最大成長區域\(中國\)跟最大客戶\(GG\)，再看一下在手訂單量，就可以知道上面講的題材不是唬爛的，而且AMAT的股價也持續在創新高。接下來就是找AMAT的供應鏈，搜尋「應用材料」「供應商」就可以找到好幾檔標的。其中我最有興趣的是3413 \(ROE最高 近年獲利持續成長\)，搜尋「moneydj」「京鼎」，就可以找到人家[整理好的簡介](https://www.moneydj.com/KMDJ/Wiki/wikiViewer.aspx?keyid=141d7096-8bb6-42c3-a23e-649c0eb7449a)再對照一下應材的主要營業部門Silicon systems
+從財報就可以找到營收最大成長區域\(中國\)跟最大客戶\(GG\)，再看一下在手訂單量，就可以知道上面講的題材不是唬爛的，而且AMAT的股價也持續在創新高。接下來就是找AMAT的供應鏈，搜尋「應用材料」「供應商」就可以找到好幾檔標的。其中我最有興趣的是3413 \(ROE最高 近年獲利持續成長\)，搜尋「moneydj」「京鼎」，就可以找到人家[整理好的簡介](https://www.moneydj.com/KMDJ/Wiki/wikiViewer.aspx?keyid=141d7096-8bb6-42c3-a23e-649c0eb7449a)：  
+  
+再對照一下應材的主要營業部門Silicon systems：
 
 
 
