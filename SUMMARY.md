@@ -35,7 +35,7 @@
 * [遊戲的本質](ch.4-quantitative-value/you-hu-de-ben-zhi.md)
 * [價值投資：煙屁股有多好？](ch.4-quantitative-value/jia-zhi-tou-zi-yan-pi-gu-you-duo-hao.md)
 * [成長與價值](ch.4-quantitative-value/untitled.md)
-* [回測雜談](ch.4-quantitative-value/hui-ce-za-tan.md)
+* [量化分析雜談](ch.4-quantitative-value/hui-ce-za-tan.md)
 * [入門：白痴基本面選股法](ch.4-quantitative-value/bai-chi-ji-ben-mian-xuan-gu-fa.md)
 * [進階：麥克風選股法](ch.4-quantitative-value/jin-jie-mai-ke-feng-xuan-gu-fa.md)
 
