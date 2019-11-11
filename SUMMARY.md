@@ -1,6 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
+* [關於我](can-kao-zi-liao.md)
 
 ## CH.1 市場陷阱 <a id="ch.1-market-traps"></a>
 
@@ -44,6 +45,5 @@
 * [交易20年雜感](ch.5-last-step/jiao-yi-20-nian-za-gan.md)
 * [投資致富之道](ch.5-last-step/tou-zi-zhi-fu-zhi-dao.md)
 * [書、書、更多書](ch.5-last-step/shu-shu-geng-duo-shu.md)
-* [關於我](ch.5-last-step/can-kao-zi-liao.md)
 * [致謝](ch.5-last-step/zhi-xie.md)
 

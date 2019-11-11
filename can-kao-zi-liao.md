@@ -1,6 +1,6 @@
 # 關於我
 
-![&#x5E0C;&#x671B;&#x5927;&#x5BB6;&#x5728;&#x81EA;&#x5DF1;&#x64C5;&#x9577;&#x7684;&#x9818;&#x57DF;&#xFF0C;&#x90FD;&#x62B1;&#x6301;&#x5C3C;&#x7279;&#x7F85;&#x935B;&#x934A;&#x611F;&#x8B1D;&#x6B63;&#x62F3;&#x7684;&#x7CBE;&#x795E;](../.gitbook/assets/maxresdefault.jpg)
+![&#x5E0C;&#x671B;&#x5927;&#x5BB6;&#x5728;&#x81EA;&#x5DF1;&#x64C5;&#x9577;&#x7684;&#x9818;&#x57DF;&#xFF0C;&#x90FD;&#x62B1;&#x6301;&#x5C3C;&#x7279;&#x7F85;&#x935B;&#x934A;&#x611F;&#x8B1D;&#x6B63;&#x62F3;&#x7684;&#x7CBE;&#x795E;](.gitbook/assets/maxresdefault.jpg)
 
 如果看完書，對我過去在各處撰寫或蒐集的文章有興趣，下面整理的連結可以做為一個開始：
 
@@ -18,5 +18,5 @@ Youtube：[JG訪談、財經節目來賓等](https://www.youtube.com/results?sea
 
 麥克風的股市求生手冊：[我的書，連結是綠角的書評](http://greenhornfinancefootnote.blogspot.com/2016/03/blog-post.html)
 
-![&#x5BEB;&#x66F8;&#x82B1;&#x7684;&#x6642;&#x9593;&#x8DDF;&#x7248;&#x7A05;&#x6536;&#x5165;&#x4E0D;&#x6210;&#x6BD4;&#x4F8B;&#xFF0C;CP&#x771F;&#x7684;&#x8D85;&#x4F4E;](../.gitbook/assets/book.png)
+![&#x5BEB;&#x66F8;&#x82B1;&#x7684;&#x6642;&#x9593;&#x8DDF;&#x7248;&#x7A05;&#x6536;&#x5165;&#x4E0D;&#x6210;&#x6BD4;&#x4F8B;&#xFF0C;CP&#x771F;&#x7684;&#x8D85;&#x4F4E;](.gitbook/assets/book.png)
 
