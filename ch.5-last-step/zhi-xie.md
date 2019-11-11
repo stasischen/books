@@ -6,5 +6,5 @@
 
 生活中要謝的人太多了，就謝天吧！
 
-![LINE PAY&#x8F49;&#x5E33;QR CODE&#xFF0C;&#x4F60;&#x7684;&#x652F;&#x6301;&#x662F;&#x6211;&#x5275;&#x4F5C;&#x7684;&#x52D5;&#x529B;](../.gitbook/assets/mai-ke-feng-line-pay-qrcode.jpg)
+![LINE PAY&#x8F49;&#x5E33;QR CODE&#xFF0C;&#x652F;&#x6301;&#x5275;&#x4F5C;&#x8005;](../.gitbook/assets/mai-ke-feng-line-pay-qrcode.jpg)
 
