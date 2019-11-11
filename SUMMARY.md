@@ -22,8 +22,8 @@
 
 ## CH.3 技術分析 <a id="ch.3-tech-analysis"></a>
 
-* [技術分析要設防](ch.3-tech-analysis/untitled.md)
 * [神準指標](ch.3-tech-analysis/untitled-1.md)
+* [技術分析要設防](ch.3-tech-analysis/untitled.md)
 * [波浪？科學？玄學？](ch.3-tech-analysis/untitled-2.md)
 * [順勢操作者](ch.3-tech-analysis/shun-shi-cao-zuo-zhe.md)
 * [交易系統](ch.3-tech-analysis/jiao-yi-xi-tong.md)
