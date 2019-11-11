@@ -4,8 +4,36 @@ description: (待補，整理ptt相關文章)
 
 # 做功課的方法
 
-有心要學習的可以試著強迫自己固定花點時間去做研究，像在股版po認真的分析文也是一種方式。下面以一篇自己做的分析作為例子：
+有心要學習的可以試著強迫自己固定花點時間去做研究，像在股版po認真的分析文也是一種方式。下面以一篇試自己做的分析作為例子，說明個股研究可以如何著手：
 
+![](../.gitbook/assets/p1.png)
+
+![](../.gitbook/assets/p2.png)
+
+![](../.gitbook/assets/p3.png)
+
+![](../.gitbook/assets/p4.png)
+
+![](../.gitbook/assets/p5.png)
+
+![](../.gitbook/assets/p6.png)
+
+![](../.gitbook/assets/p7.png)
+
+![](../.gitbook/assets/p8.png)
+
+![](../.gitbook/assets/p9.png)
+
+![](../.gitbook/assets/p10.png)
+
+![](../.gitbook/assets/p11.png)
+
+![](../.gitbook/assets/p12.png)
+
+![](../.gitbook/assets/p13.png)
+
+\*這是2017做的研究，內容已經不適用於貿易戰興起的現在  
+  
 當初會注意到是因為其中一個投資群組聊到宜特跟閎康，用「股票名稱」「研究報告」兩個關鍵字，就可以找到幾篇長篇分析文：
 
 ![](../.gitbook/assets/3587.png)
@@ -16,7 +44,7 @@ description: (待補，整理ptt相關文章)
 
 用「中國」「晶圓廠」「產能」當關鍵字則可以找到[這篇分析](http://technews.tw/2016/10/17/china-300mm-fab/)，只要簡單的計算就可以知道這幾年會有大量產能開出，照理說建廠時設備廠會先受益，產能開出後矽晶圓和檢測廠才會反應，但當時的相關類股的股價，卻是晶圓跟檢測提早反應，所以我就開始研究設備廠。
 
-說到半導體設備廠，直覺會想到AMAT跟ASML這兩家，前者是全球最大，後者是擁有最先進製程EUV，還讓intel三星GG共同投資加速製程開發。google你會找到[這篇](https://zhuanlan.zhihu.com/p/21632080)還有[這篇](https://www.zhihu.com/question/42963443)可以對讀完，
+說到半導體設備廠，直覺會想到AMAT跟ASML這兩家，前者是全球最大，後者是擁有最先進製程EUV，還讓intel三星GG共同投資加速製程開發。google你會找到[這篇](https://zhuanlan.zhihu.com/p/21632080)還有[這篇](https://www.zhihu.com/question/42963443)，讀完可以對產業多些基礎認知，也會知道EUV中國目前還沒法進口，所以上面的中國2025題材，ASML恐怕受惠的程度較小。那就來看看AMAT吧，AMAT是美國上市公司，直接從官網就可以[下載財報](http://www.appliedmaterials.com/company/investor-relations/financials)：
 
 
 
