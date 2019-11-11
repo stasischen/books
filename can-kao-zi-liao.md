@@ -16,7 +16,9 @@ Youtube：[JG訪談、財經節目來賓等](https://www.youtube.com/results?sea
 
 演講Powerpoint：[這份是底稿，會依照主題微調](https://drive.google.com/file/d/1vHzdyiclJ1MPPn1RUZivPKWWBmKELPwg/view)
 
-麥克風的股市求生手冊：[連結是綠角的書評](http://greenhornfinancefootnote.blogspot.com/2016/03/blog-post.html)
+麥克風的股市求生手冊：[連結是綠角的書評](http://greenhornfinancefootnote.blogspot.com/2016/03/blog-post.html)  
+  
+麥克風的學習地圖：[書評、外語學習、還有更多](https://sites.google.com/view/stasismap/main)
 
 ![&#x5BEB;&#x66F8;&#x82B1;&#x7684;&#x6642;&#x9593;&#x8DDF;&#x7248;&#x7A05;&#x6536;&#x5165;&#x4E0D;&#x6210;&#x6BD4;&#x4F8B;&#xFF0C;CP&#x771F;&#x7684;&#x8D85;&#x4F4E;](.gitbook/assets/book.png)
 
