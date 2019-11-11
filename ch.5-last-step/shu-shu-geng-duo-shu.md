@@ -123,6 +123,8 @@ Howard Marks BJ4. 我比較喜歡投資最重要的事。
   
 [**交易．創造自己的聖盃**](https://pinkrose.info/2bNV2)  
   
+  
+  
 [**趨勢交易正典：成為多空百萬贏家**](https://igrape.net/2bLEg)  
   
 [**順勢操作：多元化管理的期貨交易策略**](https://easyfun.biz/2bLEj)  
