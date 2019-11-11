@@ -95,13 +95,13 @@ b.在股價上漲一定程度，PE提高時\(eg.PE&gt;16\)開始使用移動停�
 
 ![](../.gitbook/assets/wespai3.jpg)
 
-![](../.gitbook/assets/wespai5.jpg)
-
 4. 畫面往下拉，調整過濾的數值後，點選「已選擇4個指標」
 
 ![](../.gitbook/assets/wespai4.jpg)
 
 5. 清單跑出來後，點選「以3年平均現金股利換算殖利率」兩次，讓清單從殖利率高的開始排
+
+![](../.gitbook/assets/wespai5.jpg)
 
 最後還是要強調，這樣篩出來的只是口袋清單，實際在建構投資組合的時候還是要做更多分析。
 
