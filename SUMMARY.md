@@ -48,5 +48,6 @@
 * [公司MEMO](ch.5-last-step/gong-si-memo/README.md)
   * [3189 景碩 \(1909 update\)](ch.5-last-step/gong-si-memo/3189-jing-shi.md)
   * [6277 宏正](ch.5-last-step/gong-si-memo/6277-hong-zheng-1909-update.md)
+  * [6277](ch.5-last-step/gong-si-memo/6277.md)
 * [致謝](ch.5-last-step/zhi-xie.md)
 
