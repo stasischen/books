@@ -159,7 +159,7 @@ Barton Biggs是我最愛的投資作家之一，華爾街教父級人物，也�
 [**金融怪傑\(上\)**](https://www1.oeya.com.tw/2bLIh)  
 ****[**金融怪傑\(下\)**](https://whitehippo.net/2bLIp)  
   
-裡面訪談到的Ed Seykota可以說是我的順勢交易啟蒙者，2018年時還特地[寫信給他表達感謝之意](https://www.seykota.com/tt/2018/Mar/01-31/default.html)。最簡單的成功方法就是模仿成功者的心態與思維，類似的系列還很多，像是新金融怪傑、新世紀金融怪傑等，請自行上網搜尋。  
+裡面訪談到的Ed Seykota，可以說是我的順勢交易啟蒙者，2018年時還特地[寫信給他表達感謝之意](https://www.seykota.com/tt/2018/Mar/01-31/default.html)。最簡單的成功方法就是模仿成功者的心態與思維，類似的系列還很多，像是新金融怪傑、新世紀金融怪傑等，請自行上網搜尋。  
   
 [**股票作手回憶錄**](https://easyfun.biz/2bLIf)  
   
