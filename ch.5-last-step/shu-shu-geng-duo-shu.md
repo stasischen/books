@@ -154,7 +154,7 @@ Barton Biggs是我最愛的投資作家之一，華爾街教父級人物，也�
 ****[**一個投機者的告白之金錢遊戲**](https://greenmall.info/2bLHi)  
 ****[**一個投機者的告白之證券心理學**](https://joymall.co/2bLHk)  
   
-科斯托蘭尼的投機經典三部曲。  
+科斯托蘭尼的投機經典三部曲。BJ4.  
   
 [**金融怪傑\(上\)**](https://www1.oeya.com.tw/2bLIh)  
 ****[**金融怪傑\(下\)**](https://whitehippo.net/2bLIp)  
