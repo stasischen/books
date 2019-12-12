@@ -1,6 +1,6 @@
 # 前言
 
-![&#x6050;&#x6016;&#x7684;&#x7DB2;&#x8ECD;](.gitbook/assets/78952596_2934270306594733_2439451869764911104_n.png)
+![&#x6050;&#x6016;&#x7684;&#x7DA0;&#x71DF;&#x7DB2;&#x8ECD;](.gitbook/assets/78952596_2934270306594733_2439451869764911104_n.png)
 
 被綠營瘋狂網軍抹黑攻擊騷擾紀錄：[PTT八卦版原文](https://pttweb.tw/s/3nGBs) / [新聞報導連結](https://www.upmedia.mg/news_info.php?SerialNo=76736) / [採訪影片](https://www.facebook.com/mktsurvivalkit/videos/2917512468259323/)  
   
