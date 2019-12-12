@@ -2,9 +2,7 @@
 
 ![&#x6050;&#x6016;&#x7684;&#x7DB2;&#x8ECD;](.gitbook/assets/78952596_2934270306594733_2439451869764911104_n.png)
 
-有一臉書粉絲團「麥克風的市場求生手冊」（以下簡稱麥克風）4日在臉書上爆料，指出網路上存在一個被稱為「應許」的社團，網友爆料該社團的類似共主角色是蔡英文表姊林美珠的兒子吳孝銓。
-
-[新聞報導連結](https://www.upmedia.mg/news_info.php?SerialNo=76736) / [PTT八卦版原文](https://pttweb.tw/s/3nGBs) / [採訪影片](https://www.facebook.com/mktsurvivalkit/videos/2917512468259323/)  
+被瘋狂網軍抹黑攻擊騷擾紀錄：[PTT八卦版原文](https://pttweb.tw/s/3nGBs) / [新聞報導連結](https://www.upmedia.mg/news_info.php?SerialNo=76736) / [採訪影片](https://www.facebook.com/mktsurvivalkit/videos/2917512468259323/)  
   
 其實這本電子書只是之前部落格跟PTT的文章整理，利用Gitbook重新排版整理，弄出章節，將其變成更便於閱讀的形式。內容當然沒有什麼「致富密技」，但大家讀了多少能有點收穫吧。
 
