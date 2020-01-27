@@ -8,7 +8,7 @@
 
 ![](.gitbook/assets/78952596_2934270306594733_2439451869764911104_n.png)
 
-本人因揭發民進黨網軍如宇宙網美Emmy Hu、總統外甥吳孝銓、深口袋行銷甯祥豪之惡行，最終導致經營多年有兩萬多人的粉絲團「麥克風的市場求生手冊」被惡意檢舉刪除，與大量假帳網軍抹黑騷擾威脅，自己和家人遭到網軍濫訴 \([劉o偉](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fliuchunwei%2F&sa=D&sntz=1&usg=AFQjCNHWX53urPbasl1lk4QygtOjXeMfzg)/[甯祥豪](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fstasischen%2Fposts%2F10158145758608615&sa=D&sntz=1&usg=AFQjCNF4mMLc9ubY57jYdxBY3frDb3O62w)\) 。詳情請參閱下列報導與文章：
+本人因揭發民進黨網軍如宇宙網美Emmy Hu、總統外甥吳孝銓、深口袋行銷甯祥豪之惡行，最終導致經營多年有兩萬多人的粉絲團「麥克風的市場求生手冊」被惡意檢舉刪除 \(可改追蹤[臉書專頁](https://www.facebook.com/stasischen)\) ，與大量假帳網軍抹黑騷擾威脅，自己和家人遭到網軍濫訴 \([劉o偉](https://www.google.com/url?q=https%3A%2F%2Fsites.google.com%2Fview%2Fliuchunwei%2F&sa=D&sntz=1&usg=AFQjCNHWX53urPbasl1lk4QygtOjXeMfzg)/[甯祥豪](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fstasischen%2Fposts%2F10158145758608615&sa=D&sntz=1&usg=AFQjCNF4mMLc9ubY57jYdxBY3frDb3O62w)\) 。詳情請參閱下列報導與文章：
 
 [**信傳媒專訪**](https://www.google.com/url?q=https%3A%2F%2Fwww.cmmedia.com.tw%2Fhome%2Farticles%2F19119&sa=D&sntz=1&usg=AFQjCNGtJx_yJPH69VJ8r4JxQyC26kuZtw) **/** [**上報**](https://www.google.com/url?q=https%3A%2F%2Fwww.upmedia.mg%2Fnews_info.php%3FSerialNo%3D76736&sa=D&sntz=1&usg=AFQjCNFiPuDn7d_wQgMDXa1ap_GMuAioWg) **/** [**新頭殼**](https://www.google.com/url?q=https%3A%2F%2Fnewtalk.tw%2Fnews%2Fview%2F2019-12-04%2F335734&sa=D&sntz=1&usg=AFQjCNFL_hTNDJHiqKawtH8OcrWWL3Pg4w) **/** [**TVBS**](https://www.google.com/url?q=https%3A%2F%2Fnews.tvbs.com.tw%2Fpolitics%2F1243931&sa=D&sntz=1&usg=AFQjCNEX5pALezgkco1eCJ5mtzLE8-he9w) **/** [**ETtoday**](https://www.google.com/url?q=https%3A%2F%2Fwww.ettoday.net%2Fnews%2F20191204%2F1594507.htm&sa=D&sntz=1&usg=AFQjCNEMtDFip7-qD4X5GoUbRDiy-TiAkQ)
 
