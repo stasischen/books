@@ -14,7 +14,3 @@
 
 [PTT八卦1](https://www.google.com/url?q=https%3A%2F%2Fwww.ptt.cc%2Fbbs%2FGossiping%2FM.1575379262.A.AA0.html&sa=D&sntz=1&usg=AFQjCNEYRvrfuB3lqoUvUD5wjo9tPK40ng) / [PTT八卦2](https://www.google.com/url?q=https%3A%2F%2Fwww.ptt.cc%2Fbbs%2FGossiping%2FM.1575469111.A.82E.html&sa=D&sntz=1&usg=AFQjCNGzMCkltTZXv1XDu-52zeNhY5XO_A) / [PTT八卦3](https://www.google.com/url?q=https%3A%2F%2Fwww.ptt.cc%2Fbbs%2FGossiping%2FM.1579329423.A.FBF.html&sa=D&sntz=1&usg=AFQjCNH4htAAeeGM2pIyvhc9fGQu7skcUA)
 
-
-
-
-
